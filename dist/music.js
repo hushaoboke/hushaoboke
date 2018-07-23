@@ -2,26 +2,21 @@ const ap = new APlayer({
     container: document.getElementById('aplayer'),
     fixed: true,
     autoplay: false,
-    audio: [
-      
-	     {
+    audio: [      {
         name: ' Lemon ',
         artist: ' 米津玄師 ',
         url: 'http://music.163.com/song/media/outer/url?id=536622304.mp3',
         cover: 'http://p1.music.126.net/r0TgUXBEEmMG48KSsEa_mg==/109951163143657970.jpg',
-      },
+        },
 	  
-
-
-
-		 {
+       {
         name: ' That Girl ',
         artist: ' Olly Murs ',
         url: 'http://music.163.com/song/media/outer/url?id=440208476.mp3',
         cover: 'http://p1.music.126.net/_dPhSlbDz23MjXUEYeBGRw==/18820340533734696.jpg',
       },
 	  
- {
+       {         
         name: ' Dream It Possible ',
         artist: ' Delacey ',
         url: 'http://music.163.com/song/media/outer/url?id=38592976.mp3',
