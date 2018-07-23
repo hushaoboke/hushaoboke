@@ -4,8 +4,13 @@ const ap = new APlayer({
     autoplay: false,
     audio: [
       
-	     
-
+	     {
+        name: ' Lemon ',
+        artist: ' 米津玄師 ',
+        url: 'http://music.163.com/song/media/outer/url?id=536622304.mp3',
+        cover: 'http://p1.music.126.net/r0TgUXBEEmMG48KSsEa_mg==/109951163143657970.jpg',
+      },
+	  
 
 
 
@@ -28,7 +33,12 @@ const ap = new APlayer({
         url: 'http://music.163.com/song/media/outer/url?id=533259686.mp3',
         cover: 'http://p1.music.126.net/OVBzkUhphxfWfkji9Owhkw==/109951163118002763.jpg',
       },
-	  
+	   {
+        name: ' 体面 ',
+        artist: ' 千秋雪Candaramsi ',
+        url: 'http://music.163.com/song/media/outer/url?id=863682233.mp3',
+        cover: 'http://p1.music.126.net/OVBzkUhphxfWfkji9Owhkw==/109951163118002763.jpg',
+      },
 	  
 
 		{
@@ -36,12 +46,6 @@ const ap = new APlayer({
         artist: ' 阿肆 ',
         url: 'http://music.163.com/song/media/outer/url?id=526464145.mp3',
         cover: 'http://p1.music.126.net/BA0bFrD0cK4YDSYublCThA==/109951163093942268.jpg',
-      },
-	  {
-        name: ' Lemon ',
-        artist: ' 米津玄師 ',
-        url: 'http://music.163.com/song/media/outer/url?id=536622304.mp3',
-        cover: 'http://p1.music.126.net/r0TgUXBEEmMG48KSsEa_mg==/109951163143657970.jpg',
       },
 	  
 	  {
@@ -126,6 +130,12 @@ const ap = new APlayer({
         cover: 'http://p1.music.126.net/tczb_7II9KzSuLQsVt89Gw==/109951163049336667.jpg',
       },
 	
+	  {
+        name: ' 在人间 ',
+        artist: ' 王建房 ',
+        url: 'http://h5.1ting.com/file?url=/zzzzzmp3/2014aJan/13W/13wangjianfang/03.mp3',
+        cover: 'http://p1.music.126.net/r0TgUXBEEmMG48KSsEa_mg==/109951163143657970.jpg',
+      },
 	  
 	  
 	  
