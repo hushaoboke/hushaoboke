@@ -130,12 +130,7 @@ const ap = new APlayer({
         cover: 'http://p1.music.126.net/tczb_7II9KzSuLQsVt89Gw==/109951163049336667.jpg',
       },
 	
-	  {
-        name: ' 在人间 ',
-        artist: ' 王建房 ',
-        url: 'http://h5.1ting.com/file?url=/zzzzzmp3/2014aJan/13W/13wangjianfang/03.mp3',
-        cover: 'http://p1.music.126.net/r0TgUXBEEmMG48KSsEa_mg==/109951163143657970.jpg',
-      },
+
 	  
 	  
 	  
