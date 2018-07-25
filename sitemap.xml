@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>/photos/index.html</loc>
+    
+    <lastmod>2018-07-25T06:29:12.316Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>/about/index.html</loc>
     
-    <lastmod>2018-07-25T05:23:05.853Z</lastmod>
+    <lastmod>2018-07-25T06:18:40.686Z</lastmod>
     
   </url>
   
@@ -19,13 +26,6 @@
     <loc>/2018/07/16/%E7%BB%93%E5%90%88hexo%E5%92%8Cgithub%E5%BC%80%E5%8F%91%E9%9D%99%E6%80%81%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%84%9F%E6%83%B3/</loc>
     
     <lastmod>2018-07-25T05:22:40.133Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>/photos/index.html</loc>
-    
-    <lastmod>2018-07-25T05:16:35.550Z</lastmod>
     
   </url>
   
