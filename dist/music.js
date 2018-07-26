@@ -2,19 +2,26 @@ const ap = new APlayer({
     container: document.getElementById('aplayer'),
     fixed: true,
     autoplay: false,
-    audio: [      {
+    audio: [     
+
+        {
+        name: ' 让我留在你身边 ',
+        artist: ' 陈奕迅 ',
+        url: 'http://dl.stream.qqmusic.qq.com/M800003tlSye3PpqAg.mp3?vkey=C0185F5CD098A812D5CAC9F44416837A8410FC4AD76AF6A994D3A1BCBA664765365861D0A560D291D466A7882E1636469746F7CC59C72453&guid=5150825362&fromtag=1',
+        cover: 'https://y.gtimg.cn/music/photo_new/T002R300x300M0000019Kyrr4RyQPS.jpg?max_age=2592000',
+        },
+
+	
+	
+	
+	{
         name: ' Lemon ',
         artist: ' 米津玄師 ',
         url: 'http://music.163.com/song/media/outer/url?id=536622304.mp3',
         cover: 'http://p1.music.126.net/r0TgUXBEEmMG48KSsEa_mg==/109951163143657970.jpg',
         },
 	  
-       {
-        name: ' 让我留在你身边 ',
-        artist: ' 陈奕迅 ',
-        url: 'http://dl.stream.qqmusic.qq.com/M800003tlSye3PpqAg.mp3?vkey=C0185F5CD098A812D5CAC9F44416837A8410FC4AD76AF6A994D3A1BCBA664765365861D0A560D291D466A7882E1636469746F7CC59C72453&guid=5150825362&fromtag=1',
-        cover: 'https://y.gtimg.cn/music/photo_new/T002R300x300M0000019Kyrr4RyQPS.jpg?max_age=2592000',
-        },
+   
 
 
 
