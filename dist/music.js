@@ -7,11 +7,16 @@ const ap = new APlayer({
         {
         name: ' 让我留在你身边 ',
         artist: ' 陈奕迅 ',
-        url: 'http://dl.stream.qqmusic.qq.com/M800003tlSye3PpqAg.mp3?vkey=C0185F5CD098A812D5CAC9F44416837A8410FC4AD76AF6A994D3A1BCBA664765365861D0A560D291D466A7882E1636469746F7CC59C72453&guid=5150825362&fromtag=1',
-        cover: 'https://y.gtimg.cn/music/photo_new/T002R300x300M0000019Kyrr4RyQPS.jpg?max_age=2592000',
+        url: 'http://fs.open.kugou.com/0143f8658fb4dd24d7c0e13da1d6cc7e/5b59be03/G079/M0A/1F/00/jw0DAFhvBWaAUpGvADA2SOOz0Pk600.mp3',
+        cover: 'http://singerimg.kugou.com/uploadpic/softhead/400/20170106/20170106110339784.jpg',
         },
 
-	
+	    {
+        name: ' 在人间 ',
+        artist: ' 王建房 ',
+        url: 'http://h5.1ting.com/file?url=/zzzzzmp3/2014aJan/13W/13wangjianfang/03.mp3',
+        cover: 'http://img.1ting.com/images/special/345/s300_1466f111bb2a4b864118143103f6e723.jpg',
+        },
 	
 	
 	{
