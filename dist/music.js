@@ -10,7 +10,12 @@ const ap = new APlayer({
         url: 'http://h5.1ting.com/file?url=/zzzzzmp3/2014aJan/13W/13wangjianfang/03.mp3',
         cover: 'http://img.1ting.com/images/special/345/s300_1466f111bb2a4b864118143103f6e723.jpg',
         },
-	
+	 {
+        name: ' 我已经爱上你 ',
+        artist: ' 念阳凡懿 ',
+        url: 'http://fs.open.kugou.com/bfce6a89dda66ad7daf11f04bca7c6dd/5b604f2b/G125/M04/04/19/HYcBAFponqGAKS5mACJPq6mE8Tg932.mp3',
+        cover: 'http://imge.kugou.com/stdmusic/20180724/20180724174536392590.jpg',
+        },
 	
 	{
         name: ' Lemon ',
