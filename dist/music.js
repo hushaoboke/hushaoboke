@@ -4,19 +4,8 @@ const ap = new APlayer({
     autoplay: false,
     audio: [     
 
-	   {
-        name: ' 我已经爱上你 ',
-        artist: ' 念阳凡懿 ',
-        url: 'http://fs.open.kugou.com/bfce6a89dda66ad7daf11f04bca7c6dd/5b604f2b/G125/M04/04/19/HYcBAFponqGAKS5mACJPq6mE8Tg932.mp3',
-        cover: 'http://imge.kugou.com/stdmusic/20180724/20180724174536392590.jpg',
-        },
-
-
-
-
-
-
-	   {
+	
+      {
         name: ' 在人间 ',
         artist: ' 王建房 ',
         url: 'http://h5.1ting.com/file?url=/zzzzzmp3/2014aJan/13W/13wangjianfang/03.mp3',
@@ -54,25 +43,10 @@ const ap = new APlayer({
         url: 'http://music.163.com/song/media/outer/url?id=533259686.mp3',
         cover: 'http://p1.music.126.net/OVBzkUhphxfWfkji9Owhkw==/109951163118002763.jpg',
       },
-	   {
-        name: ' 体面 ',
-        artist: ' 于文文 ',
-        url: 'http://dl.stream.qqmusic.qq.com/M800000Md1wq0vnwzE.mp3?vkey=2955811F8B1B39E78386A355D7502E042B83F178D7FB7B2A768A13ED712DFA21C1CC49EBC6650FD519A12BD8434DA94F6C149D55C595D3B3&guid=5150825362&fromtag=1',
-        cover: 'https://y.gtimg.cn/music/photo_new/T002R300x300M000001qYTzY2oyDyZ.jpg?max_age=2592000',
-      },
-	   {
-        name: ' 空空如也 ',
-        artist: ' 胡66 ',
-        url: 'http://dl.stream.qqmusic.qq.com/M800000Wk6NP4NaAPo.mp3?vkey=EFF7A882A3ADE0FF15BE7A7CF4431B54BA2CE14CAA44DFF8863352640784E6CB1F17EBFCB32BAB2DC1EFA4E9CAA305676AF8AF0867B1728A&guid=5150825362&fromtag=1',
-        cover: 'https://y.gtimg.cn/music/photo_new/T002R300x300M000002TtvI007ZBG3.jpg?max_age=2592000',
-      },
+	
 
-	     {
-        name: ' 但愿余生都是你 ',
-        artist: ' 贺敬轩 ',
-        url: 'http://dl.stream.qqmusic.qq.com/M800003HCCx43yOBx3.mp3?vkey=3A285CA41ABA500134B134618C4208EF973EE79846DCE9006B92BA70112D44F53C0D5E1BE861B85F7888FA593265DB044AC06FA68BEC3960&guid=5150825362&fromtag=1',
-        cover: 'https://y.gtimg.cn/music/photo_new/T002R300x300M000004MpGhC0xBJqx.jpg?max_age=2592000',
-      },
+
+
 		{
         name: ' 喜欢 ',
         artist: ' 阿肆 ',
