@@ -4,8 +4,16 @@ const ap = new APlayer({
     autoplay: false,
     audio: [     
 
-	
-      {
+	{
+        name: ' Lemon ',
+        artist: ' 米津玄師 ',
+        url: 'http://music.163.com/song/media/outer/url?id=536622304.mp3',
+        cover: 'http://p1.music.126.net/r0TgUXBEEmMG48KSsEa_mg==/109951163143657970.jpg',
+        },
+     
+
+
+	 {
         name: ' 在人间 ',
         artist: ' 王建房 ',
         url: 'http://h5.1ting.com/file?url=/zzzzzmp3/2014aJan/13W/13wangjianfang/03.mp3',
@@ -13,12 +21,7 @@ const ap = new APlayer({
         },
 	 
 	
-	{
-        name: ' Lemon ',
-        artist: ' 米津玄師 ',
-        url: 'http://music.163.com/song/media/outer/url?id=536622304.mp3',
-        cover: 'http://p1.music.126.net/r0TgUXBEEmMG48KSsEa_mg==/109951163143657970.jpg',
-        },
+	
 	  
    
 
