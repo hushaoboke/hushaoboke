@@ -4,9 +4,10 @@
 
     
     
+    
   <url>
     <loc>/2018/07/26/%E5%85%B3%E4%BA%8E%E6%A2%A6%E6%83%B3/</loc>
-    <lastmod>2018-07-26T08:36:12.303Z</lastmod>
+    <lastmod>2018-08-09T09:38:48.300Z</lastmod>
     <data>
         <display>
         <title>关于梦想</title>
@@ -23,22 +24,8 @@
 
     
   <url>
-    <loc>/photos/index.html</loc>
-    <lastmod>2018-07-25T07:47:17.292Z</lastmod>
-    <data>
-        <display>
-        <title>相册</title>
-        <pubTime>2018-07-25T07:47:17.292Z</pubTime>
-        
-         
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>/2018/07/23/%E9%9A%8F%E6%84%8F%E6%90%AD%E5%BB%BA%E7%9A%84%E4%B8%80%E4%B8%AA%E5%85%8D%E8%B4%B9%E8%A7%86%E9%A2%91%E7%BD%91/</loc>
-    <lastmod>2018-07-25T05:22:49.615Z</lastmod>
+    <lastmod>2018-08-09T09:37:46.909Z</lastmod>
     <data>
         <display>
         <title>随意搭建的一个免费视频网</title>
@@ -54,18 +41,20 @@
     </url>
 
     
+    
+    
+    
   <url>
-    <loc>/categories/index.html</loc>
-    <lastmod>2018-07-16T06:41:56.978Z</lastmod>
+    <loc>/photos/index.html</loc>
+    <lastmod>2018-07-25T07:47:17.292Z</lastmod>
     <data>
         <display>
-        <title>分类</title>
-        <pubTime>2018-07-19T01:02:19.645Z</pubTime>
+        <title>相册</title>
+        <pubTime>2018-07-25T07:47:17.292Z</pubTime>
         
          
         </display>
     </data>
     </url>
 
-    
 </urlset>
