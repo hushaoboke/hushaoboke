@@ -3,44 +3,9 @@
 
 
     
-    
-  <url>
-    <loc>/categories/index.html</loc>
-    <lastmod>2018-12-22T15:21:24.730Z</lastmod>
-    <data>
-        <display>
-        <title>分类</title>
-        <pubTime>2018-12-22T15:21:24.730Z</pubTime>
-        
-         
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>/2018/07/28/1.html/</loc>
-    <lastmod>2018-12-22T15:14:42.378Z</lastmod>
-    <data>
-        <display>
-        <title>关于梦想</title>
-        <pubTime>2018-07-28T12:16:00.000Z</pubTime>
-        
-         
-           
-             
-              <breadCrumb title="随笔说说" url="/categories/%E9%9A%8F%E7%AC%94%E8%AF%B4%E8%AF%B4/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-    
-    
   <url>
     <loc>/2018/07/23/2.html/</loc>
-    <lastmod>2018-08-11T00:25:58.784Z</lastmod>
+    <lastmod>2018-12-24T02:32:20.782Z</lastmod>
     <data>
         <display>
         <title>随意搭建的一个免费视频网</title>
@@ -56,19 +21,54 @@
     </url>
 
     
-    
+  <url>
+    <loc>/2018/07/28/1.html/</loc>
+    <lastmod>2018-12-24T02:30:41.246Z</lastmod>
+    <data>
+        <display>
+        <title>关于梦想</title>
+        <pubTime>2018-07-28T12:16:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="随笔说说" url="/categories/%E9%9A%8F%E7%AC%94%E8%AF%B4%E8%AF%B4/"/>
+          
+        </display>
+    </data>
+    </url>
+
     
   <url>
     <loc>/photos/index.html</loc>
-    <lastmod>2018-07-25T07:47:17.292Z</lastmod>
+    <lastmod>2018-12-24T01:53:15.388Z</lastmod>
     <data>
         <display>
         <title>相册</title>
-        <pubTime>2018-07-25T07:47:17.292Z</pubTime>
+        <pubTime>2018-12-24T01:53:15.388Z</pubTime>
         
          
         </display>
     </data>
     </url>
 
+    
+    
+  <url>
+    <loc>/categories/index.html</loc>
+    <lastmod>2018-12-22T15:21:24.730Z</lastmod>
+    <data>
+        <display>
+        <title>分类</title>
+        <pubTime>2018-12-22T15:21:24.730Z</pubTime>
+        
+         
+        </display>
+    </data>
+    </url>
+
+    
+    
+    
+    
 </urlset>
